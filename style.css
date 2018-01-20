@@ -1,0 +1,35 @@
+* {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: #1dcaff;
+    color: #fff;
+}
+
+header{
+    padding: 40px;
+    text-transform: uppercase;
+}
+
+.quote,
+.author{
+    margin: 20px;
+}
+
+li a{
+    display: inline-block;
+    width: 30%;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid #fff;
+    color: #fff;
+    text-decoration: none;
+}
+
+li a:hover{
+    color:  #0084b4;
+    background-color: #fff;
+}
